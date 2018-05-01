@@ -1,0 +1,18 @@
+c:\users\iulia\documents\visual studio 2013\Projects\Lab2SGBD\Lab2SGBD\bin\Debug\Lab2SGBD.exe.config
+c:\users\iulia\documents\visual studio 2013\Projects\Lab2SGBD\Lab2SGBD\bin\Debug\Lab2SGBD.exe
+c:\users\iulia\documents\visual studio 2013\Projects\Lab2SGBD\Lab2SGBD\bin\Debug\Lab2SGBD.pdb
+c:\users\iulia\documents\visual studio 2013\Projects\Lab2SGBD\Lab2SGBD\obj\Debug\Lab2SGBD.Properties.Resources.resources
+c:\users\iulia\documents\visual studio 2013\Projects\Lab2SGBD\Lab2SGBD\obj\Debug\Lab2SGBD.csproj.GenerateResource.Cache
+c:\users\iulia\documents\visual studio 2013\Projects\Lab2SGBD\Lab2SGBD\obj\Debug\Lab2SGBD.exe
+c:\users\iulia\documents\visual studio 2013\Projects\Lab2SGBD\Lab2SGBD\obj\Debug\Lab2SGBD.pdb
+c:\users\iulia\documents\visual studio 2013\Projects\Lab2SGBD\Lab2SGBD\obj\Debug\Lab2SGBD.Form1.resources
+E:\an2 sem2\Arhiva 2\2016\sisteme de gestiune a bazelor de date - suciu\laborator 2 - cantina studenti\Lab2SGBD\bin\Debug\Lab2SGBD.exe.config
+E:\an2 sem2\Arhiva 2\2016\sisteme de gestiune a bazelor de date - suciu\laborator 2 - cantina studenti\Lab2SGBD\bin\Debug\Lab2SGBD.exe
+E:\an2 sem2\Arhiva 2\2016\sisteme de gestiune a bazelor de date - suciu\laborator 2 - cantina studenti\Lab2SGBD\bin\Debug\Lab2SGBD.pdb
+E:\an2 sem2\Arhiva 2\2016\sisteme de gestiune a bazelor de date - suciu\laborator 2 - cantina studenti\Lab2SGBD\obj\Debug\Lab2SGBD.csprojResolveAssemblyReference.cache
+E:\an2 sem2\Arhiva 2\2016\sisteme de gestiune a bazelor de date - suciu\laborator 2 - cantina studenti\Lab2SGBD\obj\Debug\Lab2SGBD.Form1.resources
+E:\an2 sem2\Arhiva 2\2016\sisteme de gestiune a bazelor de date - suciu\laborator 2 - cantina studenti\Lab2SGBD\obj\Debug\Lab2SGBD.Properties.Resources.resources
+E:\an2 sem2\Arhiva 2\2016\sisteme de gestiune a bazelor de date - suciu\laborator 2 - cantina studenti\Lab2SGBD\obj\Debug\Lab2SGBD.csproj.GenerateResource.cache
+E:\an2 sem2\Arhiva 2\2016\sisteme de gestiune a bazelor de date - suciu\laborator 2 - cantina studenti\Lab2SGBD\obj\Debug\Lab2SGBD.csproj.CoreCompileInputs.cache
+E:\an2 sem2\Arhiva 2\2016\sisteme de gestiune a bazelor de date - suciu\laborator 2 - cantina studenti\Lab2SGBD\obj\Debug\Lab2SGBD.exe
+E:\an2 sem2\Arhiva 2\2016\sisteme de gestiune a bazelor de date - suciu\laborator 2 - cantina studenti\Lab2SGBD\obj\Debug\Lab2SGBD.pdb

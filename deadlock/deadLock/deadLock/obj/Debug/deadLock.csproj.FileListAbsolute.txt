@@ -1,0 +1,25 @@
+D:\an2\sem2\baze de date\lab\lab4\deadLock\deadLock\bin\Debug\deadLock.exe.config
+D:\an2\sem2\baze de date\lab\lab4\deadLock\deadLock\bin\Debug\deadLock.exe
+D:\an2\sem2\baze de date\lab\lab4\deadLock\deadLock\bin\Debug\deadLock.pdb
+D:\an2\sem2\baze de date\lab\lab4\deadLock\deadLock\obj\Debug\deadLock.csprojResolveAssemblyReference.cache
+D:\an2\sem2\baze de date\lab\lab4\deadLock\deadLock\obj\Debug\deadLock.exe
+D:\an2\sem2\baze de date\lab\lab4\deadLock\deadLock\obj\Debug\deadLock.pdb
+C:\Users\iulia\Desktop\SGBD lab 3 tudor\lab3\deadLock\deadLock\bin\Debug\deadLock.exe.config
+C:\Users\iulia\Desktop\SGBD lab 3 tudor\lab3\deadLock\deadLock\obj\Debug\deadLock.exe
+C:\Users\iulia\Desktop\SGBD lab 3 tudor\lab3\deadLock\deadLock\obj\Debug\deadLock.pdb
+C:\Users\iulia\Desktop\SGBD lab 3 tudor\lab3\deadLock\deadLock\bin\Debug\deadLock.exe
+C:\Users\iulia\Desktop\SGBD lab 3 tudor\lab3\deadLock\deadLock\bin\Debug\deadLock.pdb
+C:\Users\iulia\Desktop\SGBD lab 3 tudor\lab3\deadLock\deadLock\obj\Debug\deadLock.csprojResolveAssemblyReference.cache
+C:\Users\iulia\Desktop\Facultate\2016\Sisteme de gestiune a bazelor de date - Suciu\Laborator 3 - Cantina Studenti\deadlock\deadLock\deadLock\bin\Debug\deadLock.exe.config
+C:\Users\iulia\Desktop\Facultate\2016\Sisteme de gestiune a bazelor de date - Suciu\Laborator 3 - Cantina Studenti\deadlock\deadLock\deadLock\obj\Debug\deadLock.exe
+C:\Users\iulia\Desktop\Facultate\2016\Sisteme de gestiune a bazelor de date - Suciu\Laborator 3 - Cantina Studenti\deadlock\deadLock\deadLock\obj\Debug\deadLock.pdb
+C:\Users\iulia\Desktop\Facultate\2016\Sisteme de gestiune a bazelor de date - Suciu\Laborator 3 - Cantina Studenti\deadlock\deadLock\deadLock\bin\Debug\deadLock.exe
+C:\Users\iulia\Desktop\Facultate\2016\Sisteme de gestiune a bazelor de date - Suciu\Laborator 3 - Cantina Studenti\deadlock\deadLock\deadLock\bin\Debug\deadLock.pdb
+C:\Users\iulia\Desktop\Facultate\2016\Sisteme de gestiune a bazelor de date - Suciu\Laborator 3 - Cantina Studenti\deadlock\deadLock\deadLock\obj\Debug\deadLock.csprojResolveAssemblyReference.cache
+E:\an2 sem2\arhiva\2016\Sisteme de gestiune a bazelor de date - Suciu\Laborator 3 - Cantina Studenti\deadlock\deadLock\deadLock\bin\Debug\deadLock.exe.config
+E:\an2 sem2\arhiva\2016\Sisteme de gestiune a bazelor de date - Suciu\Laborator 3 - Cantina Studenti\deadlock\deadLock\deadLock\bin\Debug\deadLock.exe
+E:\an2 sem2\arhiva\2016\Sisteme de gestiune a bazelor de date - Suciu\Laborator 3 - Cantina Studenti\deadlock\deadLock\deadLock\bin\Debug\deadLock.pdb
+E:\an2 sem2\arhiva\2016\Sisteme de gestiune a bazelor de date - Suciu\Laborator 3 - Cantina Studenti\deadlock\deadLock\deadLock\obj\Debug\deadLock.csprojResolveAssemblyReference.cache
+E:\an2 sem2\arhiva\2016\Sisteme de gestiune a bazelor de date - Suciu\Laborator 3 - Cantina Studenti\deadlock\deadLock\deadLock\obj\Debug\deadLock.csproj.CoreCompileInputs.cache
+E:\an2 sem2\arhiva\2016\Sisteme de gestiune a bazelor de date - Suciu\Laborator 3 - Cantina Studenti\deadlock\deadLock\deadLock\obj\Debug\deadLock.exe
+E:\an2 sem2\arhiva\2016\Sisteme de gestiune a bazelor de date - Suciu\Laborator 3 - Cantina Studenti\deadlock\deadLock\deadLock\obj\Debug\deadLock.pdb
